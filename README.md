@@ -1,5 +1,5 @@
 # apcupsd2mqtt
-APC UPS stats over MQTT
+APC UPS stats (fetched from apcaccess - requires apcupsd to run) over MQTT
 
 This script can be run as a service with systemd.
 
